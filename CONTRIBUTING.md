@@ -31,7 +31,7 @@ Every project except `Mahjong.Plugin.Dalamud` itself is Dalamud-free and portabl
 ## Project layout
 
 ```
-FFXIV-DomanMahjongSolver/
+FFXIV-MahjongSensei/
 ├── Mahjong.Core/                value types: Tile, Meld, Hand, Decomposition, ...
 ├── Mahjong.Rules/               IRuleSet + 38 IYakuRule + scoring/dora/fu rules
 ├── Mahjong.Policy.Abstractions/ contracts: IPolicy + sub-policies, IRandomSource, weights
