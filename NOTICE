@@ -1,0 +1,30 @@
+FFXIV-DomanMahjongSolver
+Copyright (c) 2026 Xeldar Alz
+
+This project is licensed under the GNU Affero General Public License v3.0.
+See the LICENSE.md file for the full license text.
+
+Redistributions and derivative works must preserve existing copyright
+notices and license information as required by the AGPL.
+
+If you create modified versions, please clearly indicate that your
+version is derived from this project and document the changes made.
+
+Doman Mahjong Sensei (modified version)
+Upstream: https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver
+Fork base commit: 21ae5ca9aa1fa3785baa540245b51efa346f9d37
+Upstream commit author: XeldarAlz
+Upstream commit date: 2026-07-20
+This repository starts with a new history based on the above upstream commit.
+Modified by: sweatpotato13
+Modification date: 2026-09-29
+Copyright (c) 2026 sweatpotato13 (fork modifications)
+License for this fork: AGPL-3.0-or-later; see LICENSE.md.
+
+Changes from upstream:
+- Add Korean-client call labels and compatibility with current Dalamud APIs.
+- Fix shanten calculation for hands containing all four copies of a tile.
+- Correct the Doman Mahjong minimum winning requirement to one han.
+- Use the MahjongSensei plugin identity and a new icon.
+- Disable telemetry uploads and remove the telemetry server.
+- Include license notices and corresponding source in release distribution.

@@ -1,0 +1,41 @@
+[
+  {
+    "Author": "sweatpotato13",
+    "Name": "Doman Mahjong Sensei",
+    "InternalName": "MahjongSensei",
+    "AssemblyVersion": "0.1.2.3",
+    "TestingAssemblyVersion": "0.1.2.3",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/sweatpotato13/FFXIV-MahjongSensei",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "MinimumDalamudVersion": null,
+    "Tags": [
+      "mahjong",
+      "doman",
+      "gold-saucer",
+      "ai",
+      "automation",
+      "korean"
+    ],
+    "CategoryTags": [
+      "Utility"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/sweatpotato13/FFXIV-MahjongSensei/main/Mahjong.Plugin.Dalamud/Images/Icon.png",
+    "Punchline": "Doman Mahjong, solved for you.",
+    "Description": "Reads your Doman Mahjong hand and tells you the best discard, or plays the match for you. Fork of XeldarAlz/FFXIV-AutoMahjongSolver adding Korean-client support.",
+    "Changelog": "v0.1.2.3: First release of this fork. Call prompts are matched per locale instead of against hardcoded English, so pon, chi, kan, riichi, tsumo and ron fire on a Korean client instead of being passed. Two fixes that apply everywhere: the shanten calculator no longer calls a dead wait tenpai when the hand holds all four copies of a tile, and the Doman minimum is one han, not two, so legal one-han wins are taken. Telemetry removed.",
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/sweatpotato13/FFXIV-MahjongSensei/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/sweatpotato13/FFXIV-MahjongSensei/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/sweatpotato13/FFXIV-MahjongSensei/releases/latest/download/latest.zip",
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [],
+    "AcceptsFeedback": true,
+    "LastUpdate": "1779882403"
+  }
+]

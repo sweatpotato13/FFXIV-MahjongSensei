@@ -1,0 +1,17 @@
+{
+    "Author": "sweatpotato13",
+    "Name": "Doman Mahjong Sensei",
+    "Punchline": "Doman Mahjong, solved for you.",
+    "Description": "Reads your Doman Mahjong hand and tells you the best discard, or plays the match for you. Fork of XeldarAlz/FFXIV-AutoMahjongSolver adding Korean-client support.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/sweatpotato13/FFXIV-MahjongSensei",
+    "IconUrl": "https://raw.githubusercontent.com/sweatpotato13/FFXIV-MahjongSensei/main/Mahjong.Plugin.Dalamud/Images/Icon.png",
+    "Tags": [
+        "mahjong",
+        "doman",
+        "gold-saucer",
+        "ai",
+        "automation",
+        "korean"
+    ]
+}
